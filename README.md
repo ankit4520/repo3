@@ -1,2 +1,2 @@
 # repo3
-welcomw to repo 3
+welcome to repo 3
